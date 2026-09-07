@@ -1,11 +1,7 @@
 providers = ["python"]
 
 [phases.setup]
-nixPkgs = [
-    "python311",
-    "chromium",
-    "chromedriver"
-]
+nixPkgs = ["python311", "chromium", "chromedriver"]
 
 [phases.install]
 cmds = [
