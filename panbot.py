@@ -32,8 +32,8 @@ os.makedirs(DATA_DIR, exist_ok=True)
 # ==============================================================================
 # BOT CONFIG
 # ==============================================================================
-BOT_TOKEN = "8470294445:AAGjnfNB5QDgN98JDMStfB-EH7NpJCtFvhQ"
-ADMINS = [1612918900, 8344661985, 7635769150, 8619012652]
+BOT_TOKEN = "8552139564:AAGqtYi3poYxCnBJChYY1ENAq6dn8UlmBTY"
+ADMINS = [1612918900,]
 DEBUG_ADMIN_ID = 1612918900
 
 DB_FILE = os.path.join(DATA_DIR, "users.db")
